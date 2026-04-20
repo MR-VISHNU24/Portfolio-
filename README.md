@@ -17,3 +17,6 @@ I build dashboards and analyze data to generate insights.
 📫 Contact:
 Email: vishnur2004@outlook.com
 LinkedIn:www.linkedin.com/in/vishnur2004
+<a href="https://github.com/MR-VISHNU24/YOUR-REPO/raw/main/vishnu_resume_final.pdf">
+  <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge" />
+</a>
