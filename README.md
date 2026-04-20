@@ -24,7 +24,7 @@ LinkedIn:www.linkedin.com/in/vishnur2004
 <h2>📄 Resume</h2>
 
 <p align="center">
-  <a href="https://github.com/MR-VISHNU24/MR-VISHNU24/raw/main/vishnu_resume_final.pdf">
+  <a href="https://https://github.com/MR-VISHNU24/Portfolio-/blob/main/vishnu_resume_final.pdf">
     <img src="https://img.shields.io/badge/Download-My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
